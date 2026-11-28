@@ -1,7 +1,7 @@
 ## The Duck Pond
 EpiX TF2 Server
 
-![alt text](https://raw.githubusercontent.com/TF2DuckPond/duckpond/refs/heads/main/website/css/img/BurningLogo.gif ":3")
+![alt text](https://tf2duckpond.github.io/css/img/BurningLogo.gif ":3")
 
 ## Stuff
 
