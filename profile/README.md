@@ -5,6 +5,6 @@ EpiX TF2 Server
 
 ## Stuff
 
-[Website](https://tf2duckpond.github.io/) | [Configs](https://github.com/TF2DuckPond/server) | [FastDL](https://github.com/TF2DuckPond/duckpond-fastdl)
+[Website](https://tf2duckpond.github.io/) | [Configs/Plugins](https://github.com/TF2DuckPond/server) | [FastDL](https://github.com/TF2DuckPond/duckpond-fastdl)
 
 [where the logo came from](https://cooltext.com/Logo-Design-Burning)
